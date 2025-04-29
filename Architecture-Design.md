@@ -8,7 +8,7 @@
  Cloud Laboratory Initiative: Actively sourcing laboratory space to establish a cloud lab framework, allowing remote execution and monitoring of experiments by decentralized research communities.
 
 MOBOX has led an era in Web3 Gaming, yet we continuously push beyond our past achievements. 
-
+ 
 Today, we set our sights on a new frontier: Decentralized Science. 
 
 We are applying our expertise in GAMIFICATION to transform complex SCIENTIFIC RESEARCH into interactive systems everyone can engage with. 
