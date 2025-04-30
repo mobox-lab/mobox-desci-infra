@@ -308,7 +308,7 @@ export default function Marketplace() {
                         {asset.verified && (
                           <div className="flex items-center">
                             <Verified className="h-4 w-4 text-green-500 mr-1" />
-                            <span className="text-sm text-green-600">Verified</span>
+              <span className="text-sm text-green-600">Verified</span>
                           </div>
                         )}
                       </div>

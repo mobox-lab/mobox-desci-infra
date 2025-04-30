@@ -279,7 +279,7 @@ export default function Support() {
                   </div>
                 ))}
               </div>
-
+  // Minor update
               {filteredFaqs.length === 0 && (
                 <div className="text-center py-12">
                   <HelpCircle className="mx-auto h-12 w-12 text-gray-400" />

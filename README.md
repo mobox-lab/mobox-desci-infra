@@ -269,7 +269,7 @@ Guides & protocols
 **📊 Research Dashboard**  
 Experiment management
 
-**🧪 Biocultivation Lab**  
+**🧪 Biocultivation Lab**
 Hardware controls
 
 **📈 Analytics**  
