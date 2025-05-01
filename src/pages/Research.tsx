@@ -189,7 +189,7 @@ export default function Research() {
                   <div className="flex items-start justify-between">
                     <div className="flex-1">
                       <div className="flex items-center gap-3 mb-3">
-                        <span className="text-2xl">{getTypeIcon(experiment.type)}</span>
+                        <span className="text-2xl">{getTypeIcon(experiment.type)}</span>  // Minor update
                         <h4 className="text-lg font-semibold text-gray-900">{experiment.title}</h4>
                         <span className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${getStatusColor(experiment.status)}`}>
                           {experiment.status}

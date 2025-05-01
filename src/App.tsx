@@ -26,7 +26,7 @@ function App() {
         <Route path="support" element={<Support />} />
         <Route path="settings" element={<Settings />} />
       </Route>
-    </Routes>
+  </Routes>
   )
 }
 
