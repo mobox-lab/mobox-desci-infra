@@ -110,7 +110,7 @@ export default function Economics() {
                 <p className="text-primary-200 text-sm">${(mockUser.mboxBalance * tokenMetrics.price).toFixed(2)} USD</p>
               </div>
               <Wallet className="h-12 w-12 text-primary-200" />
-            </div>
+      </div>
           </div>
 
           <div className="bg-gradient-to-r from-secondary-600 to-secondary-700 rounded-lg p-6 text-white">
