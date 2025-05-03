@@ -82,7 +82,7 @@ src/
 - Local state with useState for component-specific data
 - Mock all external API calls - no real backend integration
 
-### Styling Conventions
+### Styling Conventions 
 - Tailwind CSS utility classes for styling
 - Responsive design with mobile-first approach
 - Consistent color scheme matching MOBOX branding
