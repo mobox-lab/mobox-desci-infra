@@ -171,7 +171,7 @@ export default function Lab() {
                         </div>
                       </div>
                     </div>
-                    <div className="mb-2">
+                    <div className="mb-2">  // Minor update
                       <div className="flex justify-between text-sm text-gray-600 mb-1">
                         <span>Range: {chamber.parameters.temperature.range[0]}°C - {chamber.parameters.temperature.range[1]}°C</span>
                         <span>Optimal</span>

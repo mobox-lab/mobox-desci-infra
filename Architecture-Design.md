@@ -22,7 +22,7 @@ MOBOX Pivots to Gamified De-Sci: Empowering Science Through Interactive Experien
 Dear MOBOXers,
 
 MOBOX has led an era in Web3 Gaming, yet we continuously push beyond our past achievements. Today, we set our sights on a new frontier: Decentralized Science. We are applying our expertise in gamification to transform complex scientific research into interactive systems everyone can engage with. We are making scientific exploration more fun and accessible than ever before.
-
+ 
 MOBOX’s Strategic Evolution Journey
 Since our inception, we have leveraged gaming expertise and robust technical capabilities to transform valuable experiences into immersive, accessible and interactive opportunities for everyone. This journey has unfolded across three strategic phases:
 
