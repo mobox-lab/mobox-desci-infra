@@ -46,7 +46,7 @@ export const mockExperiments: Experiment[] = [
     parameters: {
       temperature: 25,
       humidity: 80,
-      lightIntensity: 200,
+      lightIntensity: 200, 
       nutrients: ['Glucose', 'Yeast Extract', 'Minerals']
     }
   },
