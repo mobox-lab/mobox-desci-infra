@@ -59,7 +59,7 @@ Strategic reallocation of tokens from gaming to scientific research incentives.
 Airdrops of ecosystem partner assets to The BOX Hodlers.
 Our Path Ahead
 MOBOX is taking what we’ve accumulated from gaming and venturing into decentralized science, bringing together exploration, innovation, and community in ways never before possible. Through our home-level research hardware and gamified experiences, we’re creating a global research network where everyone can participate, share value, and transform results. More details will be revealed in the coming weeks, please remain connected to our official channels.
-
+ 
 Join us as we redefine the boundaries of science and gaming!
 
 Team MOBOX

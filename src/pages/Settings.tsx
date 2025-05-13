@@ -541,7 +541,7 @@ export default function Settings() {
                               Manage
                             </button>
                           </div>
-                        </div>
+            </div>
                       </div>
                     </div>
 

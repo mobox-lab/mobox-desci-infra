@@ -27,7 +27,7 @@ export default function Documentation() {
         { id: 'setup', title: 'Setting Up Your First Experiment', type: 'guide', readTime: '15 min' },
         { id: 'chamber-basics', title: 'Understanding Biocultivation Chambers', type: 'guide', readTime: '10 min' },
         { id: 'safety', title: 'Safety Guidelines and Best Practices', type: 'guide', readTime: '12 min' }
-      ]
+      ]  // Minor update
     },
     {
       id: 'lab-operations',
