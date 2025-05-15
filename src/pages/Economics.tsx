@@ -212,7 +212,7 @@ export default function Economics() {
                     <h4 className="text-lg font-medium text-gray-900 mb-4">$MBOX Utility</h4>
                     <ul className="space-y-3">
                       <li className="flex items-start">
-                        <div className="flex-shrink-0 w-6 h-6 bg-primary-100 rounded-full flex items-center justify-center mt-0.5">
+                        <div className="flex-shrink-0 w-6 h-6 bg-primary-100 rounded-full flex items-center justify-center mt-0.5"> 
                           <span className="w-2 h-2 bg-primary-600 rounded-full"></span>
                         </div>
                         <div className="ml-3">
