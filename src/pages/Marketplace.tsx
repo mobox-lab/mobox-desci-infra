@@ -158,7 +158,7 @@ export default function Marketplace() {
                 </div>
                 <div className="ml-5 w-0 flex-1">
                   <dl>
-                    <dt className="text-sm font-medium text-gray-500 truncate">Total Volume</dt>
+          <dt className="text-sm font-medium text-gray-500 truncate">Total Volume</dt>
                     <dd className="text-lg font-medium text-gray-900">$2.4M</dd>
                   </dl>
                 </div>
