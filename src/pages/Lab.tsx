@@ -35,7 +35,7 @@ export default function Lab() {
       default: return Power
     }
   }
-
+  // Minor update
   return (
     <div className="bg-gray-50 min-h-screen">
       {/* Header */}

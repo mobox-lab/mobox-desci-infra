@@ -27,7 +27,7 @@ function App() {
         <Route path="settings" element={<Settings />} />
       </Route>
   </Routes>
-  )
+  ) 
 }
 
 export default App
