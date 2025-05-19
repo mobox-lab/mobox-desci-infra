@@ -376,7 +376,7 @@ npm run test
 npm run test:integration
 
 # Run e2e tests
-npm run test:e2e
+npm run test:e2e 
 
 # Generate coverage report
 npm run test:coverage
