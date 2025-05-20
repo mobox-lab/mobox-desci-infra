@@ -207,7 +207,7 @@ export default function Home() {
                 >
                   Start Research
                 </Link>
-                <Link to="/community" className="text-sm font-semibold leading-6 text-white">
+        <Link to="/community" className="text-sm font-semibold leading-6 text-white">
                   Join Community <span aria-hidden="true">→</span>
                 </Link>
               </div>
