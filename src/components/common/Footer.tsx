@@ -65,7 +65,7 @@ export default function Footer() {
               </div>
               <div className="text-xl font-bold text-gray-900">THE BOX</div>
             </div>
-            <p className="text-sm leading-6 text-gray-600">
+      <p className="text-sm leading-6 text-gray-600">
               Making scientific research interactive for ALL through gamified biocultivation infrastructure that democratizes discovery.
             </p>
             <div className="flex space-x-6">

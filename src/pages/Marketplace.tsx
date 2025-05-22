@@ -24,7 +24,7 @@ export default function Marketplace() {
     { id: 'images', name: 'Images', icon: Image },
     { id: 'measurements', name: 'Measurements', icon: Activity },
     { id: 'protocols', name: 'Protocols', icon: FileText },
-  ]
+  ]  // Minor update
 
   const mockDataAssets = [
     {
