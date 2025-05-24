@@ -7,7 +7,7 @@ import {
   Globe,
   Smartphone,
   Key,
-  Database,
+ Database,
   Mail,
   Save,
   Eye,
