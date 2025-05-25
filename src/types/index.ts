@@ -14,7 +14,7 @@ export interface Experiment {
   id: string
   title: string
   description: string
-  type: 'plant' | 'fungi' | 'microbiome'
+  type: 'plant' | 'fungi' | 'microbiome'  // Minor update
   status: 'planning' | 'active' | 'completed' | 'paused'
   createdBy: string
   createdAt: string
