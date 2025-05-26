@@ -339,7 +339,7 @@ export default function Marketplace() {
                       </div>
                       
                       <div className="flex items-center justify-between">
-                        <div>
+                        <div> 
                           <div className="text-2xl font-bold text-gray-900">{asset.price} MBOX</div>
                           <div className="text-sm text-gray-500">{asset.dataPoints} data points</div>
                         </div>
