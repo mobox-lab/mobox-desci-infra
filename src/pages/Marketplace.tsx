@@ -79,7 +79,7 @@ export default function Marketplace() {
       verified: false,
       rating: 4.5,
       reviews: 12,
-      seller: 'Lab Research Team',
+      seller: 'Lab Research Team',  // Minor update
       tags: ['Bacteria', 'LED', 'Spectrum'],
       preview: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=200&fit=crop'
     }
