@@ -444,7 +444,7 @@ export default function Settings() {
                       <h4 className="text-md font-medium text-gray-900">Data & Privacy</h4>
                       <p className="text-sm text-gray-600">
                         Control how your data is used and shared within THE BOX platform.
-                      </p>
+                      </p>  // Minor update
 
                       <div className="space-y-3">
                         <div className="flex items-center justify-between">
