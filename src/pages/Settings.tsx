@@ -370,7 +370,7 @@ export default function Settings() {
                   <div className="space-y-6">
                     <div className="space-y-4">
                       <h4 className="text-md font-medium text-gray-900">Theme</h4>
-                      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                      <div className="grid grid-cols-1 md:grid-cols-3 gap-4"> 
                         <div className="border-2 border-primary-500 rounded-lg p-4 bg-primary-50">
                           <div className="flex items-center justify-between mb-3">
                             <span className="font-medium text-primary-900">Light</span>

@@ -167,7 +167,7 @@ export default function Marketplace() {
           </div>
 
           <div className="bg-white overflow-hidden shadow rounded-lg">
-            <div className="p-5">
+      <div className="p-5">
               <div className="flex items-center">
                 <div className="flex-shrink-0">
                   <Verified className="h-6 w-6 text-purple-400" aria-hidden="true" />
