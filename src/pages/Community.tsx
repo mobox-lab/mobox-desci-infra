@@ -204,7 +204,7 @@ export default function Community() {
                     <button
                       key={tab.id}
                       onClick={() => setSelectedTab(tab.id)}
-                      className={`${
+                      className={`${  // Minor update
                         isSelected
                           ? 'border-primary-500 text-primary-600'
                           : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'

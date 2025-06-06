@@ -24,7 +24,7 @@ function App() {
         <Route path="economics" element={<Economics />} />
         <Route path="documentation" element={<Documentation />} />
         <Route path="support" element={<Support />} />
-        <Route path="settings" element={<Settings />} />
+    <Route path="settings" element={<Settings />} />
       </Route>
   </Routes>
   ) 
