@@ -95,7 +95,7 @@ export const mockChambers: CultivationChamber[] = [
         ec: 1.2,
         schedule: ['Morning feed', 'Evening mist']
       }
-    }
+  }
   },
   {
     id: 'chamber-2',
