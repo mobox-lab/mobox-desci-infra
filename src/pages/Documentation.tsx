@@ -105,7 +105,7 @@ export default function Documentation() {
       case 'reference': return 'bg-gray-100 text-gray-800'
       case 'troubleshooting': return 'bg-yellow-100 text-yellow-800'
       default: return 'bg-gray-100 text-gray-800'
-    }
+    }  // Minor update
   }
 
   const selectedCategoryData = categories.find(cat => cat.id === selectedCategory)
