@@ -240,7 +240,7 @@ export default function Marketplace() {
                 <div className="space-y-4">
                   <div>
                     <label className="block text-sm font-medium text-gray-700">Min Price</label>
-                    <input type="number" className="mt-1 block w-full border-gray-300 rounded-md shadow-sm focus:ring-primary-500 focus:border-primary-500 sm:text-sm" placeholder="0" />
+          <input type="number" className="mt-1 block w-full border-gray-300 rounded-md shadow-sm focus:ring-primary-500 focus:border-primary-500 sm:text-sm" placeholder="0" />
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-gray-700">Max Price</label>
