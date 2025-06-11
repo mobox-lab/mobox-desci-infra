@@ -48,7 +48,7 @@ const social = [
     href: '#',
     icon: Send,
   },
-]
+] 
 
 export default function Footer() {
   return (

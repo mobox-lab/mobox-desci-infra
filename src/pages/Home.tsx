@@ -77,7 +77,7 @@ export default function Home() {
               Making Scientific Research Interactive for ALL
             </p>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              MOBOX's expertise in gamification transforms complex scientific research into engaging, 
+       MOBOX's expertise in gamification transforms complex scientific research into engaging, 
               accessible experiences that anyone can participate in and benefit from.
             </p>
           </div>
