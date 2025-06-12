@@ -114,7 +114,7 @@ export default function Home() {
                     <Link to="/research" className="text-sm font-semibold leading-6 text-primary-600">
                       Start Research <span aria-hidden="true">→</span>
                     </Link>
-                  </p>
+                  </p> 
                 </dd>
               </div>
               <div className="flex flex-col">
