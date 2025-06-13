@@ -8,7 +8,7 @@ export default function Layout() {
       <Header />
       <main className="flex-1">
         <Outlet />
-      </main>
+      </main> 
       <Footer />
     </div>
   )
