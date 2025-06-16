@@ -52,7 +52,7 @@ export interface CultivationChamber {
     nutrients: {
       ph: number
       ec: number
-      schedule: string[]
+   schedule: string[]
     }
   }
 }

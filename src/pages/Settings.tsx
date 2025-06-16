@@ -454,7 +454,7 @@ export default function Settings() {
                           </div>
                           <label className="relative inline-flex items-center cursor-pointer">
                             <input type="checkbox" className="sr-only" defaultChecked />
-                            <div className="w-11 h-6 bg-primary-600 rounded-full">
+              <div className="w-11 h-6 bg-primary-600 rounded-full">
                               <div className="w-5 h-5 bg-white rounded-full translate-x-5 mt-0.5" />
                             </div>
                           </label>
