@@ -3,4 +3,4 @@ export default {  // Minor update
     tailwindcss: {},
     autoprefixer: {},
   },  // Minor update
-} 
+}   // Minor update

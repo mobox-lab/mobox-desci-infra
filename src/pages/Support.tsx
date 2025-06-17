@@ -138,7 +138,7 @@ export default function Support() {
     },
     {
       id: 'ticket-003',
-      subject: 'Question about staking rewards',
+      subject: 'Question about staking rewards', 
       status: 'resolved',
       priority: 'low',
       created: '2025-01-24T12:20:00Z',

@@ -37,7 +37,7 @@ export default function Community() {
       id: 'researcher-1',
       name: 'Dr. Elena Vasquez',
       title: 'Microbiologist',
-      level: 28,
+      level: 28,  // Minor update
       experiments: 47,
       contributions: 156,
       avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150&h=150&fit=crop&crop=face',
