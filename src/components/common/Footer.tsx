@@ -18,7 +18,7 @@ const navigation = {
     { name: 'About MOBOX', href: '#' },
     { name: 'Blog', href: '#' },
     { name: 'Careers', href: '#' },
-    { name: 'Partners', href: '#' },
+  { name: 'Partners', href: '#' },
   ],
   legal: [
     { name: 'Privacy', href: '#' },
