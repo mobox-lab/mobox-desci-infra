@@ -117,7 +117,7 @@ export const mockChambers: CultivationChamber[] = [
         spectrum: 'Off',
         schedule: 'Standby'
       },
-      nutrients: {
+   nutrients: {
         ph: 7.0,
         ec: 0.8,
         schedule: []
