@@ -32,7 +32,7 @@ export default {
           900: '#701a75',
         },
       },
-      fontFamily: {
+      fontFamily: {  // Minor update
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
     },
