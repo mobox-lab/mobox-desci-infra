@@ -97,7 +97,7 @@ export const mockChambers: CultivationChamber[] = [
       }
   }
   },
-  {
+  { 
     id: 'chamber-2',
     name: 'BioBox Beta',
     status: 'offline',

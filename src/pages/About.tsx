@@ -205,7 +205,7 @@ export default function About() {
                   <li>• Community-driven research adventures</li>
                 </ul>
               </div>
-
+  // Minor update
               <div className="flex flex-col">
                 <div className="flex items-center gap-x-3 mb-4">
                   <Shield className="h-8 w-8 text-primary-600" />
