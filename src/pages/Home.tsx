@@ -4,7 +4,7 @@ import {
   FlaskConical, 
   Microscope, 
   Users, 
-  Coins,
+ Coins,
   Zap,
   Globe,
   TrendingUp
