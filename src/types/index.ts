@@ -1,6 +1,6 @@
 export interface User {
   id: string
-  name: string
+  name: string  // Minor update
   email: string
   avatar?: string
   role: 'researcher' | 'contributor' | 'admin'
