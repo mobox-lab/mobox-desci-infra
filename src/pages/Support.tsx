@@ -316,7 +316,7 @@ export default function Support() {
                         <span>{new Date(ticket.updated).toLocaleDateString()}</span>
                       </div>
                     </div>
-                  ))}
+                  ))} 
                 </div>
                 <button className="mt-4 w-full bg-primary-600 text-white py-2 px-4 rounded-md hover:bg-primary-700 transition-colors">
                   Create New Ticket
