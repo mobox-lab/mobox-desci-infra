@@ -344,7 +344,7 @@ export default function Economics() {
                     <div className="text-2xl font-bold text-blue-900">
                       {mockRewards.filter(r => r.type === 'experiment_completion').reduce((sum, r) => sum + r.amount, 0)}
                     </div>
-                    <div className="text-sm text-blue-700">Experiment Rewards</div>
+          <div className="text-sm text-blue-700">Experiment Rewards</div>
                   </div>
                   <div className="bg-gradient-to-r from-green-50 to-green-100 p-4 rounded-lg">
                     <div className="text-2xl font-bold text-green-900">
