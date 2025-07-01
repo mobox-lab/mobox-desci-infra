@@ -423,7 +423,7 @@ export default function Economics() {
                           <td className="px-6 py-4 whitespace-nowrap text-sm text-right">
                             <span className="text-green-600 font-medium">+{reward.amount} MBOX</span>
                           </td>
-                        </tr>
+            </tr>
                       ))}
                     </tbody>
                   </table>
