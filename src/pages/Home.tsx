@@ -198,7 +198,7 @@ export default function Home() {
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-300">
                 Be part of the community that's making scientific research accessible, 
-                fun, and rewarding for everyone. Start your research journey now.
+        fun, and rewarding for everyone. Start your research journey now.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
                 <Link
