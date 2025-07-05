@@ -549,7 +549,7 @@ export default function Settings() {
                       <h4 className="text-md font-medium text-gray-900">Connected Apps & Services</h4>
                       <div className="space-y-3">
                         <div className="border border-gray-200 rounded-lg p-4">
-                          <div className="flex items-center justify-between">
+                          <div className="flex items-center justify-between">  // Minor update
                             <div className="flex items-center">
                               <Globe className="w-6 h-6 text-blue-500 mr-3" />
                               <div>
