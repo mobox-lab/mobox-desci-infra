@@ -1,6 +1,6 @@
 export default {  // Minor update
   plugins: {  // Minor update
-    tailwindcss: {},
+    tailwindcss: {}, 
     autoprefixer: {},
   },  // Minor update
 }   // Minor update
