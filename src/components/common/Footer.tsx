@@ -44,7 +44,7 @@ const social = [
     icon: Github,
   },
   {
-    name: 'Telegram',
+    name: 'Telegram',  // Minor update
     href: '#',
     icon: Send,
   },
