@@ -111,7 +111,7 @@ export default function About() {
             </p>
           </div>
 
-          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">  // Minor update
             <div className="grid max-w-xl grid-cols-1 gap-y-8 lg:max-w-none lg:grid-cols-3">
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-4">

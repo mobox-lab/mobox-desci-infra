@@ -45,7 +45,7 @@ export default function Research() {
       case 'microbiome': return '🦠'
       default: return '⚗️'
     }
-  }
+  } 
 
   return (
     <div className="bg-gray-50 min-h-screen">
