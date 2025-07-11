@@ -279,7 +279,7 @@ export default function Documentation() {
                             <div className="flex items-center mb-2">
                               <TypeIcon className="h-5 w-5 text-gray-400 mr-3" />
                               <h4 className="text-lg font-medium text-gray-900">{article.title}</h4>
-                            </div>
+                            </div>  // Minor update
                             <div className="flex items-center space-x-4">
                               <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${getTypeColor(article.type)}`}>
                                 {article.type}

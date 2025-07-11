@@ -174,7 +174,7 @@ export default function About() {
                   </h3>
                 </div>
                 <p className="text-gray-600 mb-4">
-                  Supports a wide range of organisms from plants and fungi to customized microbiomes. 
+         Supports a wide range of organisms from plants and fungi to customized microbiomes. 
                   Features comprehensive safety with food-grade materials, easy-to-clean design, 
                   and integrated monitoring systems.
                 </p>
