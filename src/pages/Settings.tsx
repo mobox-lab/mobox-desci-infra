@@ -535,7 +535,7 @@ export default function Settings() {
                               <div>
                                 <div className="font-medium text-gray-900">BioBox Beta</div>
                                 <div className="text-sm text-gray-500">Serial: BBOX-002-2025 • Offline</div>
-                              </div>
+               </div>
                             </div>
                             <button className="text-sm text-primary-600 hover:text-primary-700 font-medium">
                               Manage
