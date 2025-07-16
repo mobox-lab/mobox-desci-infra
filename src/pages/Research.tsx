@@ -4,7 +4,7 @@ import {
   Play, 
   Pause, 
   BarChart3, 
-  Calendar,
+  Calendar, 
   Users,
   Flask,
   TrendingUp,
