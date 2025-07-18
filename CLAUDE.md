@@ -36,7 +36,7 @@ npm run type-check
 ### Tech Stack
 - **React 18** with TypeScript for type safety
 - **Vite** for fast development and optimized builds
-- **Tailwind CSS** for utility-first styling
+- **Tailwind CSS** for utility-first styling 
 - **React Router** for client-side navigation
 - **Context API** for state management
 - **Lucide React** for consistent iconography

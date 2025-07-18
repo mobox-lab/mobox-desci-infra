@@ -25,7 +25,7 @@ export default function About() {
             </p>
           </div>
         </div>
-      </div>
+   </div>
 
       {/* Mission section */}
       <div className="mx-auto max-w-7xl px-6 lg:px-8 py-24 sm:py-32">
