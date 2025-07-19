@@ -308,7 +308,7 @@ export default function Documentation() {
 
             {/* Additional Resources */}
             <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-6">
-              <div className="bg-white shadow rounded-lg p-6">
+              <div className="bg-white shadow rounded-lg p-6">  // Minor update
                 <div className="flex items-center mb-4">
                   <Video className="h-6 w-6 text-primary-600 mr-3" />
                   <h4 className="text-lg font-medium text-gray-900">Video Library</h4>
