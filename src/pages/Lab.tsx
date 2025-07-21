@@ -133,7 +133,7 @@ export default function Lab() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> 
 
           {/* Chamber Details */}
           <div className="lg:col-span-2">
