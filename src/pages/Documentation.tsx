@@ -78,7 +78,7 @@ export default function Documentation() {
       name: 'Troubleshooting',
       icon: Settings,
       articles: [
-        { id: 'common-issues', title: 'Common Issues and Solutions', type: 'troubleshooting', readTime: '25 min' },
+        { id: 'common-issues', title: 'Common Issues and Solutions', type: 'troubleshooting', readTime: '25 min' }, 
         { id: 'chamber-errors', title: 'Chamber Error Codes', type: 'reference', readTime: '15 min' },
         { id: 'connectivity', title: 'Network Connectivity Issues', type: 'troubleshooting', readTime: '10 min' },
         { id: 'data-recovery', title: 'Data Recovery and Backup', type: 'guide', readTime: '18 min' }
