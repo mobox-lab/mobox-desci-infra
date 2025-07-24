@@ -215,7 +215,7 @@ export default function Lab() {
                         <span>Good</span>
                       </div>
                       <div className="w-full bg-gray-200 rounded-full h-2">
-                        <div className="bg-blue-500 h-2 rounded-full" style={{ width: '75%' }}></div>
+                        <div className="bg-blue-500 h-2 rounded-full" style={{ width: '75%' }}></div> 
                       </div>
                     </div>
                     <div className="flex space-x-2 mt-4">
