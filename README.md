@@ -312,7 +312,7 @@ Help & assistance
 Personal dashboard
 
 </td>
-</tr>
+</tr> 
 </table>
 
 ### 🎯 Page-by-Page Features

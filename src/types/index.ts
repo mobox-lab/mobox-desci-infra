@@ -5,7 +5,7 @@ export interface User {
   avatar?: string
   role: 'researcher' | 'contributor' | 'admin'
   level: number
-  xp: number
+  xp: number 
   mboxBalance: number
   veMboxBalance: number
 }
