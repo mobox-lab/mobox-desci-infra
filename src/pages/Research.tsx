@@ -204,7 +204,7 @@ export default function Research() {
                         </div>
                         <div className="bg-white p-3 rounded">
                           <div className="text-xs text-gray-500">Humidity</div>
-                          <div className="font-medium">{experiment.parameters.humidity}%</div>
+             <div className="font-medium">{experiment.parameters.humidity}%</div>
                         </div>
                         <div className="bg-white p-3 rounded">
                           <div className="text-xs text-gray-500">Light</div>
