@@ -21,7 +21,7 @@ export const mockExperiments: Experiment[] = [
     status: 'active',
     createdBy: 'user-1',
     createdAt: '2025-01-15',
-    progress: 68,
+    progress: 68, 
     parameters: {
       temperature: 20,
       humidity: 65,
