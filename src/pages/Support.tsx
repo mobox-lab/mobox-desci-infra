@@ -331,7 +331,7 @@ export default function Support() {
               </div>
               <div className="p-6">
                 <div className="space-y-3">
-                  <a href="/documentation" className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
+         <a href="/documentation" className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
                     <span className="font-medium text-sm text-gray-900">Documentation</span>
                     <ExternalLink className="h-4 w-4 text-gray-400" />
                   </a>
