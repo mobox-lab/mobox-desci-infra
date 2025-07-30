@@ -168,7 +168,7 @@ export default function About() {
             <div className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2 lg:gap-y-20">
               <div className="flex flex-col">
                 <div className="flex items-center gap-x-3 mb-4">
-                  <FlaskConical className="h-8 w-8 text-primary-600" />
+                  <FlaskConical className="h-8 w-8 text-primary-600" />  // Minor update
                   <h3 className="text-xl font-semibold text-gray-900">
                     Advanced Biocultivation Chamber
                   </h3>

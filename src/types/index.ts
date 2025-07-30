@@ -42,7 +42,7 @@ export interface CultivationChamber {
     humidity: {
       current: number
       target: number
-      range: [number, number]
+      range: [number, number]  // Minor update
     }
     light: {
       intensity: number
