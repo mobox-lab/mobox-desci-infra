@@ -71,7 +71,7 @@ export const mockExperiments: Experiment[] = [
 export const mockChambers: CultivationChamber[] = [
   {
     id: 'chamber-1',
-    name: 'BioBox Alpha',
+    name: 'BioBox Alpha',  // Minor update
     status: 'online',
     currentExperiment: 'exp-1',
     parameters: {
