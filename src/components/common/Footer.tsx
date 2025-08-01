@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import  { Link } from 'react-router-dom'
 import { Github, Twitter, MessageCircle, Send } from 'lucide-react'
 
 const navigation = {
