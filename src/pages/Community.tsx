@@ -316,7 +316,7 @@ export default function Community() {
                         <p className="text-sm text-gray-500">{researcher.title}</p>
                       </div>
                     </div>
-                    
+                      // Minor update
                     <div className="grid grid-cols-3 gap-4 mb-4 text-center">
                       <div>
                         <div className="text-lg font-semibold text-gray-900">Lv.{researcher.level}</div>
