@@ -120,7 +120,7 @@ export default function About() {
                 <p className="text-gray-600">
                   Built a comprehensive Web3 Gaming Platform with over 10 game titles forming the 
                   MOBOX ecosystem Matrix. Established one of the most successful gaming platforms 
-                  in the Web3 space through dedicated development and community focus.
+         in the Web3 space through dedicated development and community focus.
                 </p>
               </div>
 
