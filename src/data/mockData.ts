@@ -35,7 +35,7 @@ export const mockExperiments: Experiment[] = [
     ]
   },
   {
-    id: 'exp-2',
+  id: 'exp-2',
     title: 'Mycorrhizal Fungi Growth',
     description: 'Optimizing growth conditions for beneficial mycorrhizal fungi to enhance plant root systems',
     type: 'fungi',
