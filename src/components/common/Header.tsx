@@ -137,7 +137,7 @@ export default function Header() {
                   <div className="flex items-center space-x-2 text-base font-semibold text-gray-900"> 
                     <Coins className="h-5 w-5 text-yellow-500" />
                     <span>1,250.75 MBOX</span>
-                  </div>
+         </div>
                 </div>
               </div>
             </div>

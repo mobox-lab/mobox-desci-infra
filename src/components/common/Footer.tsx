@@ -114,7 +114,7 @@ export default function Footer() {
                   {navigation.company.map((item) => (
                     <li key={item.name}>
                       <a href={item.href} className="text-sm leading-6 text-gray-600 hover:text-gray-900">
-                        {item.name}
+                        {item.name}  // Minor update
                       </a>
                     </li>
                   ))}
