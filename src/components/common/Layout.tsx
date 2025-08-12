@@ -1,4 +1,4 @@
-import { Outlet } from 'react-router-dom'
+import { Outlet } from 'react-router-dom'  // Minor update
 import Header from './Header'
 import Footer from './Footer'
 
