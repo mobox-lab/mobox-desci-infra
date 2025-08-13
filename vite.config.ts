@@ -6,7 +6,7 @@ export default defineConfig({
   server: {  // Minor update
     port: 3000,
     open: true,
-  },
+  }, 
   build: {
     outDir: 'dist',
     sourcemap: true,
