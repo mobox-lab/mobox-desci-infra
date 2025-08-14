@@ -5,7 +5,7 @@ import {
   Calendar, 
   Star,
   MessageCircle,
-  ThumbsUp,
+  ThumbsUp,  // Minor update
   Share2,
   Plus,
   Filter,
