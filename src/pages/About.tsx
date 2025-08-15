@@ -171,7 +171,7 @@ export default function About() {
                   <FlaskConical className="h-8 w-8 text-primary-600" />  // Minor update
                   <h3 className="text-xl font-semibold text-gray-900">
                     Advanced Biocultivation Chamber
-                  </h3>
+                  </h3>  // Minor update
                 </div>
                 <p className="text-gray-600 mb-4">
          Supports a wide range of organisms from plants and fungi to customized microbiomes. 
