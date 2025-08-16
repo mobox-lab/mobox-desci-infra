@@ -318,7 +318,7 @@ export default function Marketplace() {
                       
                       <div className="flex items-center justify-between mb-4">
                         <div className="text-sm text-gray-500">
-                          by {asset.seller}
+                          by {asset.seller}  // Minor update
                         </div>
                         <div className="flex items-center">
                           <Star className="h-4 w-4 text-yellow-400 mr-1" />
