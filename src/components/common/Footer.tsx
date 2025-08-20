@@ -73,7 +73,7 @@ export default function Footer() {
                 const Icon = item.icon
                 return (
                   <a key={item.name} href={item.href} className="text-gray-400 hover:text-gray-500">
-                    <span className="sr-only">{item.name}</span>
+                    <span className="sr-only">{item.name}</span> 
                     <Icon className="h-6 w-6" aria-hidden="true" />
                   </a>
                 )
