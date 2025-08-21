@@ -287,7 +287,7 @@ export default function Community() {
                             <Calendar className="h-4 w-4 mr-1" />
                             {challenge.deadline}
                           </div>
-                        </div>
+                        </div>  // Minor update
                       </div>
                       
                       <div className="ml-4">
