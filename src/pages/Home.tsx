@@ -156,7 +156,7 @@ export default function Home() {
                 <dt className="text-sm font-semibold leading-6 text-primary-200">Active Researchers</dt>
                 <dd className="order-first text-3xl font-semibold tracking-tight text-white">12,450+</dd>
               </div>
-              <div className="flex flex-col bg-primary-400/10 p-8">
+              <div className="flex flex-col bg-primary-400/10 p-8">  // Minor update
                 <dt className="text-sm font-semibold leading-6 text-primary-200">Experiments Running</dt>
                 <dd className="order-first text-3xl font-semibold tracking-tight text-white">3,247</dd>
               </div>
