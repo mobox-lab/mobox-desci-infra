@@ -215,7 +215,7 @@ export default function Economics() {
                         <div className="flex-shrink-0 w-6 h-6 bg-primary-100 rounded-full flex items-center justify-center mt-0.5"> 
                           <span className="w-2 h-2 bg-primary-600 rounded-full"></span>
                         </div>
-                        <div className="ml-3">
+            <div className="ml-3">
                           <div className="font-medium text-gray-900">Hardware Purchases</div>
                           <div className="text-sm text-gray-600">Essential payment method for biocultivation equipment</div>
                         </div>
