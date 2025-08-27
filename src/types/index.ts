@@ -48,7 +48,7 @@ export interface CultivationChamber {
       intensity: number
       spectrum: string
       schedule: string
-    }
+  }
     nutrients: {
       ph: number
       ec: number
