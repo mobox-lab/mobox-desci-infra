@@ -407,7 +407,6 @@ npm run deploy:prod
 ## 🌐 Community & Support
 
 - **Website**: [mobox.io](https://mobox.io)
-- **Documentation**: [docs.mobox.io](https://docs.mobox.io)
 - **Discord**: [Join our community](https://discord.gg/mobox)
 - **Twitter**: [@moboxofficial](https://twitter.com/moboxofficial)
 - **Telegram**: [t.me/moboxofficial](https://t.me/moboxofficial)
@@ -445,15 +444,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 </div>
 
-### 🎯 Milestone Timeline
-
-| **Phase** | **Timeline** | **Key Deliverables** | **Status** |
-|-----------|-------------|---------------------|------------|
-| 🏗️ **Foundation** | Q1 2025 | Core platform, UI/UX, Mock systems | ✅ **Complete** |
-| 🚀 **Beta Launch** | Q2 2025 | Live platform, Community features, Basic lab tools | 🔄 **In Progress** |
-| 🔬 **Advanced** | Q3 2025 | AI features, Mobile app, Advanced analytics | 📋 **Planned** |
-| 🌍 **Global** | Q4 2025 | Multi-language, Partnerships, Marketplace v2 | 📋 **Planned** |
-| 🚀 **Enterprise** | 2026+ | Enterprise tools, Global expansion, Compliance | 📋 **Future** |
 
 ### 🎮 Feature Development Progress
 
@@ -472,11 +462,6 @@ Progress Tracker (Current: Q1 2025 - Foundation Phase)
 📊 Analytics Dashboard    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
 🔗 Hardware Integration   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🌟 Upcoming in Q2 2025:
-   • Live chamber connections
-   • Real-time data streams  
-   • Community challenges
-   • Beta user onboarding
 ```
 
 ## 👥 Team & Community
@@ -512,7 +497,6 @@ Progress Tracker (Current: Q1 2025 - Foundation Phase)
 | Platform | Link | Description |
 |----------|------|-------------|
 | 🌐 **Website** | [mobox.io](https://mobox.io) | Official MOBOX platform |
-| 📚 **Documentation** | [docs.mobox.io](https://docs.mobox.io) | Complete platform docs |
 | 💬 **Discord** | [discord.gg/mobox](https://discord.gg/mobox) | Community discussions |
 | 🐦 **Twitter** | [@moboxofficial](https://twitter.com/moboxofficial) | Latest updates |
 | 📱 **Telegram** | [t.me/moboxofficial](https://t.me/moboxofficial) | Community chat |
@@ -542,7 +526,7 @@ Progress Tracker (Current: Q1 2025 - Foundation Phase)
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-**💡 Ready to transform scientific research? [Get Started →](https://mobox-desci.vercel.app)**
+**💡 Ready to transform scientific research? Join our community today!**
 
 </div>
 
