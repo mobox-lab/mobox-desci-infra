@@ -20,7 +20,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF?logo=vite)](https://vitejs.dev/)
 
-**🚀 [Live Demo](https://mobox-desci.vercel.app) • 📚 [Documentation](https://docs.mobox.io) • 💬 [Community](https://discord.gg/mobox) • 🐛 [Issues](https://github.com/mobox/mobox-desci-infra/issues)**
+💬 [Community](https://discord.gg/mobox) • 🐛 [Issues](https://github.com/mobox/mobox-desci-infra/issues)**
 
 </div>
 
