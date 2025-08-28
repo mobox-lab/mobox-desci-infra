@@ -1,6 +1,7 @@
-C-Green-Code
-joji-mb  
-leksang99 
-Tomori6657
-Goro  Yagami
+
+C-Green-Code <shallowgreenjob@gmail.com>
+joji-mb <545633740@qq.com>
+leksang99
+Tomori6657 <japancjc123@gmail.com>
+Goro  Yagami <goro@mobox.io>
  
