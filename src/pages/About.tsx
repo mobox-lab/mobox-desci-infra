@@ -628,3 +628,35 @@ export const security_______secure_API_keys: UtilityFunctions = {
     }));
   }
 };
+
+// TypeScript internationalization: perf: ⚡ optimize image compression
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    perf______optimize_image_compression: 'perf: ⚡ optimize image compression',
+    perf______optimize_image_compression_description: 'Description for perf: ⚡ optimize image compression'
+  },
+  zh: {
+    perf______optimize_image_compression: 'perf: ⚡ optimize image compression',
+    perf______optimize_image_compression_description: 'perf: ⚡ optimize image compression的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
