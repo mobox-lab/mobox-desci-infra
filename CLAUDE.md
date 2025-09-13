@@ -146,3 +146,6 @@ Updated documentation to reflect the latest changes and improvements.
 ### refactor: 🔧 optimize component structure
 
 Updated documentation to reflect the latest changes and improvements.
+### security: 🔒 add rate limiting
+
+Updated documentation to reflect the latest changes and improvements.
