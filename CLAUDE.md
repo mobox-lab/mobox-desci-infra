@@ -149,3 +149,6 @@ Updated documentation to reflect the latest changes and improvements.
 ### security: 🔒 add rate limiting
 
 Updated documentation to reflect the latest changes and improvements.
+### fix: 🐛 fix audio playback issues
+
+Updated documentation to reflect the latest changes and improvements.
