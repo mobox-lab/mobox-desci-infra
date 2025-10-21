@@ -599,3 +599,35 @@ export const i18nConfig: I18nConfig = {
 export const t = (key: string, locale: string = 'en'): string => {
   return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
 };
+
+// TypeScript internationalization: security: 🔒 add data encryption
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    security_______add_data_encryption: 'security: 🔒 add data encryption',
+    security_______add_data_encryption_description: 'Description for security: 🔒 add data encryption'
+  },
+  zh: {
+    security_______add_data_encryption: 'security: 🔒 add data encryption',
+    security_______add_data_encryption_description: 'security: 🔒 add data encryption的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
