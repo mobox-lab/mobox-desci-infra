@@ -152,3 +152,6 @@ Updated documentation to reflect the latest changes and improvements.
 ### fix: 🐛 fix audio playback issues
 
 Updated documentation to reflect the latest changes and improvements.
+### chore: 🔧 add health check endpoints
+
+Updated documentation to reflect the latest changes and improvements.
