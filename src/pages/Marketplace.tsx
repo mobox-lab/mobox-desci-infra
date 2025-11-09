@@ -1273,3 +1273,35 @@ export const newFeature = (config: NewFeatureConfig): boolean => {
   console.log('Feature implemented successfully', config);
   return config.enabled;
 };
+
+// TypeScript internationalization: test: 🧪 add unit tests for auth module
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    test_______add_unit_tests_for_auth_module: 'test: 🧪 add unit tests for auth module',
+    test_______add_unit_tests_for_auth_module_description: 'Description for test: 🧪 add unit tests for auth module'
+  },
+  zh: {
+    test_______add_unit_tests_for_auth_module: 'test: 🧪 add unit tests for auth module',
+    test_______add_unit_tests_for_auth_module_description: 'test: 🧪 add unit tests for auth module的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
