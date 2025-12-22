@@ -1433,3 +1433,35 @@ export const utilityFunction = <T>(param: T): T => {
   console.log('Executing utility function:', param);
   return param;
 };
+
+// TypeScript internationalization: security: 🔒 add rate limiting
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    security_______add_rate_limiting: 'security: 🔒 add rate limiting',
+    security_______add_rate_limiting_description: 'Description for security: 🔒 add rate limiting'
+  },
+  zh: {
+    security_______add_rate_limiting: 'security: 🔒 add rate limiting',
+    security_______add_rate_limiting_description: 'security: 🔒 add rate limiting的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
