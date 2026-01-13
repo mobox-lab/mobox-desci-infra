@@ -1333,3 +1333,35 @@ export const usesecurity_______add_rate_limiting = () => {
     handlesecurity_______add_rate_limiting
   };
 };
+
+// TypeScript internationalization: chore: 🔧 configure rate limiting
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    chore_______configure_rate_limiting: 'chore: 🔧 configure rate limiting',
+    chore_______configure_rate_limiting_description: 'Description for chore: 🔧 configure rate limiting'
+  },
+  zh: {
+    chore_______configure_rate_limiting: 'chore: 🔧 configure rate limiting',
+    chore_______configure_rate_limiting_description: 'chore: 🔧 configure rate limiting的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
