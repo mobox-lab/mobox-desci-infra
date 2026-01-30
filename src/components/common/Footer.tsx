@@ -1116,3 +1116,35 @@ export const i18nConfig: I18nConfig = {
 export const t = (key: string, locale: string = 'en'): string => {
   return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
 };
+
+// TypeScript internationalization: refactor: 🔧 restructure store modules
+interface LocaleMessages {
+  [key: string]: string;
+}
+
+interface I18nConfig {
+  locale: string;
+  fallbackLocale: string;
+  messages: Record<string, LocaleMessages>;
+}
+
+export const messages: Record<string, LocaleMessages> = {
+  en: {
+    refactor_______restructure_store_modules: 'refactor: 🔧 restructure store modules',
+    refactor_______restructure_store_modules_description: 'Description for refactor: 🔧 restructure store modules'
+  },
+  zh: {
+    refactor_______restructure_store_modules: 'refactor: 🔧 restructure store modules',
+    refactor_______restructure_store_modules_description: 'refactor: 🔧 restructure store modules的描述'
+  }
+};
+
+export const i18nConfig: I18nConfig = {
+  locale: 'en',
+  fallbackLocale: 'en',
+  messages
+};
+
+export const t = (key: string, locale: string = 'en'): string => {
+  return messages[locale]?.[key] || messages[i18nConfig.fallbackLocale]?.[key] || key;
+};
