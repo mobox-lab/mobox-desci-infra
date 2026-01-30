@@ -115,3 +115,6 @@ We welcome contributions from the global scientific and Web3 communities!
 ### security: 🔒 implement data sanitization
 
 Updated documentation to reflect the latest changes and improvements.
+### chore: 🔧 configure build optimization
+
+Updated documentation to reflect the latest changes and improvements.
