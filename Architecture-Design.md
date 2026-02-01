@@ -70,3 +70,6 @@ Updated documentation to reflect the latest changes and improvements.
 ### security: 🔒 add input validation
 
 Updated documentation to reflect the latest changes and improvements.
+### refactor: 🔧 optimize component structure
+
+Updated documentation to reflect the latest changes and improvements.
