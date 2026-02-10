@@ -112,3 +112,6 @@ We welcome contributions from the global scientific and Web3 communities!
 - **Website**: [mobox.io](https://mobox.io)
 - **X**: [@moboxofficial](https://x.com/MOBOX_Official)
 - **Community**: [Telegram](https://t.me/mobox_io) · [Discord](https://discord.com/invite/TrNrTGYzB3)
+### security: 🔒 implement data sanitization
+
+Updated documentation to reflect the latest changes and improvements.

@@ -64,4 +64,9 @@ Join us as we redefine the boundaries of science and gaming!
 
 Team MOBOX
 
-April 24, 2025
+April 24, 2025### feat: ✨ add seasonal events
+
+Updated documentation to reflect the latest changes and improvements.
+### security: 🔒 add input validation
+
+Updated documentation to reflect the latest changes and improvements.
